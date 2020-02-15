@@ -1,0 +1,4 @@
+/*Comando para dependencias */
+npm install bootstrap jquery --save
+
+
